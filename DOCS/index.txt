@@ -1,0 +1,4 @@
+En esta carpeta podemos encontrar los documentos de texto:
+
+-Manual de usuario: en este documento podemos encontrar una explicacion del funcionamiento del projecto.
+-Relacion clase-miembro: en este documento podemos encontrar que clases han sido implementadas por cada uno de los miembros.

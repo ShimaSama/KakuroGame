@@ -1,0 +1,8 @@
+Fichero donde contiene las clases implementadas para el funcionamiento del Proyecto.
+Directorio src:
+        -Dominio: se encuentran todas las clases relacionadas con las capa de dominio.
+        -Persistenica: se encuentran todas las clases relacionadas con las capas de persistencia para gestionar los archivos .txt.
+        -Presentacion: se encuentran todas las vistas referentes a las pantallas del sistema y las fuentes usadas.
+Directorio out: encontramos los archivos .class de las clases del directorio src
+comandes.bat: en este fichero podemos encontrar los comandos que se pueden utilizar para compilar el programa.
+Directorio Resources: enontramos las imagenes que se usan como recursos del programa.

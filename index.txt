@@ -1,0 +1,4 @@
+Galeria, Partida, Perfiles : Son carpetas destinadas a guardar los datos del sistema.
+    Galeria: Los kakuros publicos y privados del sistema.
+    Partida: Contiene todas las partidas activas y finalizadas realizadas en el sistema.
+    Perfiles: Contiene toda la informacion sobre todos los perfiles del sistema. (nombre, contrasena y puntuacion global)

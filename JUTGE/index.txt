@@ -1,0 +1,2 @@
+kakurogenerator.tar.gz -> tar del generator per al jutge
+kakurosolver.tar.gz -> tar del solver per al jutge
